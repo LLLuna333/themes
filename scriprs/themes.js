@@ -1,3 +1,5 @@
+//изменение темы
+
 let darkThemeButton = document.querySelector('.theme-button-dark');
 let lightThemeButton = document.querySelector('.theme-button-light');
 let serifFontButton = document.querySelector('.font-button-serif');
